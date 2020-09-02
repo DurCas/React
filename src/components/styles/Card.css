@@ -1,0 +1,23 @@
+.cardMovies{  
+    max-width: 500px;  
+    border-radius: 8px;  
+    padding:20px;
+    display: flex;  
+    flex-direction: row;  
+    align-items:center;  
+    color: #ffffff;  
+}  
+.cardMovies .text p{  
+    margin-bottom:0px;  
+    font-size: 13px;  
+}  
+.cardMovies img{  
+    width:100px;  
+    height:100px;  
+    margin-right: 20px;  
+} 
+.cardMovies .text{  
+    display:flex;  
+    justify-content: center;  
+    flex-direction: column;  
+}  
